@@ -28,7 +28,7 @@ The Hotel Booking System is a Java-based application designed to simplify hotel 
 
 **Setup Instructions:**
 
-1. Clone the repository to your local machine using `git clone <repository-url>`.
+1. Clone the repository to your local machine 
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Make sure you have MySQL installed and running.
 4. Update the database connection details in `DatabaseManager.java` with your MySQL credentials.
